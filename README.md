@@ -64,4 +64,11 @@ Kalau ingin menyisipkan gambar dari link, ketik `![Nama Gambar](link gambar)`
 
 ----------------------------------------------
 
+# Quotes
+
+Kalau ingin menyisipkan kutipan (quotes), ketik `>` diawalnya
+
+> Contoh
+
+----------------------------------------------
 
