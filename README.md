@@ -11,3 +11,8 @@ Untuk Heading 2 menggunakan `##` (dua tanda pagar, tanpa kutip)
 
 Begitu seterusnya ...
 > Note: Semakin besar Heading nya semakin kecil headernya
+
+-----------------------------------------------
+
+# Text:
+
