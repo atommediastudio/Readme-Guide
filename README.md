@@ -14,3 +14,7 @@ Untuk Heading 2 menggunakan "##" (dua tanda pagar, tanpa kutip), contoh:
 
 Begitu seterusnya ... 
 Note: Semakin besar Heading nya semakin kecil headernya
+
+<h1>Contoh<h1>
+<h2>Contoh<h2>
+<h6>Contoh<h6>
