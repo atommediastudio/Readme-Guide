@@ -41,10 +41,14 @@ Kalau urutan berdasarkan nomor, hanya ketik angka diawalnya
 <br>
 Kalau urutan berdasarkan bullet, hanya ketik `*` diawalnya
 <br>
+
 * contoh
 * contoh
 <br>
+
 Kalau urutannya bercabang, hanya ketik `-` diawalnya lalu untuk bercabang tekan `tab` pada keyboard lalu ketik `-` lagi
+<br>
+
 - contoh
 - contoh
   - contoh1
