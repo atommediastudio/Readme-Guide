@@ -26,6 +26,30 @@ Kalau tulisannya dipertebal menggunakan `**` (diawal dan diakhir tulisan)
 <br>
 Kalau tulisan dimiringkan menggunakan `*` (diawal dan diakhir tulisan)
 
-[link to Google!](http://google.com)
+[kunjungi Atom Media Studio!](http://atommediastudio.com)
 <br>
 Kalau tulisan diberi link atau URL menggunakan `[link to Google!](http://google.com)` ( [nama tulisan!](link URL) )
+
+-----------------------------------------------
+
+# List:
+
+1. contoh
+2. contoh
+<br>
+Kalau urutan berdasarkan nomor, hanya ketik angka diawalnya
+
+* contoh
+* contoh
+<br>
+Kalau urutan berdasarkan bullet, hanya ketik `*` diawalnya
+
+- contoh
+- contoh
+  - contoh1
+  - contoh2
+<br>
+Kalau urutannya bercabang, hanya ketik `-` diawalnya lalu untuk bercabang tekan `tab` pada keyboard lalu ketik `-` lagi
+
+-----------------------------------------------
+
