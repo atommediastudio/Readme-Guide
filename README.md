@@ -9,5 +9,5 @@ Untuk Heading 1 menggunakan `#` (satu tanda pagar, tanpa kutip)
 ## Contoh
 Untuk Heading 2 menggunakan `##` (dua tanda pagar, tanpa kutip)
 
-Begitu seterusnya ... 
-Note: Semakin besar Heading nya semakin kecil headernya
+Begitu seterusnya ...
+> Note: Semakin besar Heading nya semakin kecil headernya
