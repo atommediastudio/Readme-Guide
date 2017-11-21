@@ -36,19 +36,16 @@ Kalau tulisan diberi link atau URL menggunakan `[link to Google!](http://google.
 
 1. contoh
 2. contoh
-<br>
 Kalau urutan berdasarkan nomor, hanya ketik angka diawalnya
-
-* contoh
-* contoh
 <br>
+* contoh
+* contoh
 Kalau urutan berdasarkan bullet, hanya ketik `*` diawalnya
-
+<br>
 - contoh
 - contoh
   - contoh1
   - contoh2
-<br>
 Kalau urutannya bercabang, hanya ketik `-` diawalnya lalu untuk bercabang tekan `tab` pada keyboard lalu ketik `-` lagi
 
 -----------------------------------------------
