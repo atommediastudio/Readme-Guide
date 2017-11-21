@@ -1,7 +1,7 @@
-#Hello, World!! ...
+# Hello, World!! ...
 Disini saya akan memberikan arahan bagaimana untuk membuat tulisan dokumentasi di ReadMe Github ini. Karena ReadMe Github ini ada ketentuannya dalam menulis agar tampilannya bagus untuk dilihat.
 
-* Heading:
+# Heading:
 
 # Contoh
 Untuk Heading 1 menggunakan `#` (satu tanda pagar, tanpa kutip)
