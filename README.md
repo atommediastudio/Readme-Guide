@@ -26,9 +26,9 @@ Kalau tulisannya dipertebal menggunakan `**` (diawal dan diakhir tulisan)
 <br>
 Kalau tulisan dimiringkan menggunakan `*` (diawal dan diakhir tulisan)
 
-[kunjungi Atom Media Studio!](http://atommediastudio.com)
+[kunjungi Atom Media Studio!](https://atommediastudio.com)
 <br>
-Kalau tulisan diberi link atau URL menggunakan `[link to Google!](http://google.com)` ( [nama tulisan!](link URL) )
+Kalau tulisan diberi link atau URL menggunakan `[nama tulisan!](link)`
 
 -----------------------------------------------
 
@@ -55,4 +55,13 @@ Kalau urutannya bercabang, hanya ketik `-` diawalnya lalu untuk bercabang tekan 
   - contoh2
 
 ----------------------------------------------
+
+# Images:
+
+Kalau ingin menyisipkan gambar dari link, ketik `![Nama Gambar](link gambar)`
+
+![Logo AMS](https://atommediastudio.com/img/logo.png)
+
+----------------------------------------------
+
 
