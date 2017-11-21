@@ -96,10 +96,12 @@ if (isAwesome){
 
 Untuk membuat table, gunakan `-` untuk baris dan `|` untuk kolom, contohnya seperti ini
 
-`Contoh | Contoh
+```
+Contoh | Contoh
 ------------ | -------------
 Contoh 1 | Contoh 2
-Contoh 1 | Contoh 2`
+Contoh 1 | Contoh 2
+```
 
 Maka tampilannya akan seperti ini:
 
