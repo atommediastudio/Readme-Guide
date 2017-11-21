@@ -37,11 +37,13 @@ Kalau tulisan diberi link atau URL menggunakan `[link to Google!](http://google.
 1. contoh
 2. contoh
 Kalau urutan berdasarkan nomor, hanya ketik angka diawalnya
+
 <br>
 * contoh
 * contoh
 Kalau urutan berdasarkan bullet, hanya ketik `*` diawalnya
 <br>
+
 - contoh
 - contoh
   - contoh1
