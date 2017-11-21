@@ -116,4 +116,4 @@ Sekian panduan menulis ReadMe di GitHub, semoga bermanfaat .. untuk panduan terb
 
 ### Yunaldi Suhendra
 
-> Sumber: [Guides Github!](https://guides.github.com/features/mastering-markdown/)
+> Sumber: [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
