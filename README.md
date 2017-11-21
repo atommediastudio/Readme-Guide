@@ -109,3 +109,11 @@ Contoh | Contoh
 ------------ | -------------
 Contoh 1 | Contoh 2
 Contoh 1 | Contoh 2
+
+----------------------------------------------
+
+Sekian panduan menulis ReadMe di GitHub, semoga bermanfaat .. untuk panduan terbaru akan ditambahkan lain waktu, terima kasih
+
+# Yunaldi Suhendra
+
+> Sumber: [Guides Github!](https://guides.github.com/features/mastering-markdown/)
