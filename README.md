@@ -72,3 +72,38 @@ Kalau ingin menyisipkan kutipan (quotes), ketik `>` diawalnya
 
 ----------------------------------------------
 
+# Code:
+
+Untuk menyisipkan code, ketik tiga kutip atas diawal dan diakhir codingan:
+
+```
+if (isAwesome){
+  return true
+}
+```
+
+Dan untuk syntax javascript agar kelihatan menarik ditambahkan kalimat `javasrcipt` setelah tiga kutip atas diawal codingan:
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
+
+----------------------------------------------
+
+# Tables:
+
+Untuk membuat table, gunakan `-` untuk baris dan `|` untuk kolom, contohnya seperti ini
+
+`Contoh | Contoh
+------------ | -------------
+Contoh 1 | Contoh 2
+Contoh 1 | Contoh 2`
+
+Maka tampilannya akan seperti ini:
+
+Contoh | Contoh
+------------ | -------------
+Contoh 1 | Contoh 2
+Contoh 1 | Contoh 2
